@@ -29,4 +29,8 @@ By default the Bebop-Drone is configured with the ip address **192.168.142.1** i
 
 ## Multiple Drones Bebops
 
+These are the instructions to connect multiple drones to the same network, as shown in this figure
+
 ![](https://github.com/dvalenciar/Bebop_change_IP/blob/master/Figure.jpg)
+
+1 . Change the IP of each Drone following  the instructions mentioned above, These IP should be in the same range (e.g. 192.168.42.xxx)
