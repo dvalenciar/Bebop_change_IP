@@ -25,3 +25,6 @@ By default the Bebop-Drone is configured with the ip address **192.168.142.1** i
   exit in the terminal  
  ```
 5. Finally restart the drone 
+
+
+## Multiple Drones Bebops
