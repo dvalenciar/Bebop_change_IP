@@ -2,7 +2,7 @@
 
 ## Single Drone 
 
-By default the Bebop-Drone is configured with the ip address **192.168.142.1** in order to change it you need to do:
+By default the Bebop-Drone is configured with the ip address **192.168.42.1** in order to change it you need to do:
 
 
 1.  Turn on your drone and wait until the drone booted 
