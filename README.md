@@ -1,5 +1,5 @@
 # Bebop_change_IP
-
+.![](https://github.com/dvalenciar/Bebop_change_IP/blob/master/Parrot-Bibop-2-blanco.jpg)
 ## Single Drone 
 
 By default the Bebop-Drone is configured with the ip address **192.168.42.1** in order to change it you need to do:
