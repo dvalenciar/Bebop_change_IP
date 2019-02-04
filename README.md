@@ -33,7 +33,7 @@ These are the instructions to connect multiple drones to the same network, as sh
 
 ![](https://github.com/dvalenciar/Bebop_change_IP/blob/master/Figure.jpg)
 
-1 . Change the IP of each Drone following  the instructions mentioned [above](https://github.com/dvalenciar/Bebop_change_IP/blob/master/README.md#single-drone). These IP should be in the same range (e.g. Drone_1 192.168.42.11.  Drone_2 192.168.42.22     Drone_3 192.168.42.33)
+1 . Change the IP of each Drone following  the instructions mentioned [above](https://github.com/dvalenciar/Bebop_change_IP/blob/master/README.md#single-drone). These IP should be in the same range (e.g. Drone_1 --> 192.168.42.11.  Drone_2--> 192.168.42.22     Drone_3 -->192.168.42.33)
 
 2.   Connect your computer to the drone's access point 
 
