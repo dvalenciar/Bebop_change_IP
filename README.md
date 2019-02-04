@@ -70,11 +70,12 @@ Change the IP of each Drone following  the instructions mentioned [above](https:
 
 
 
-7.  **Very Important
+7.  Very Important
 
-  Connect the Drone to the network
-  All you have to do is press the  on/off button 4 times in a row.
-  If everything is correct, the drone will emit a sound and connect to the Wi-Fi network.
+  To connect the Drone to the network, all you have to do is press the  on/off button 5 times in a row.
+  If everything is correct, the drone will emit a sound and connect to your Wi-Fi network.
+
+
 
 
 Do this to all your Drones. When You finish, You should be able to ping all the Drones from your computer 
