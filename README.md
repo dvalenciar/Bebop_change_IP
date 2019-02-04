@@ -18,12 +18,9 @@ By default the Bebop-Drone is configured with the ip address **192.168.42.1** in
   adb shell 
   cd sbin
   vi broadcom_setup.sh
- 
-  Type i to star to writing  
-  Change the ip adrress 
-  Press esc to stop writing and wq to exit 
-  exit in the terminal  
- ```
+  ```
+  Type *i* to star to writing. Change the ip adrress and press *esc* to stop writing, finally  type *wq* to exit 
+  
 5. Finally restart the drone 
 
 
