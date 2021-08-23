@@ -78,7 +78,7 @@ Change the IP of each Drone following  the instructions mentioned [above](https:
 
 
 
-Do this to all your Drones. When You finish, You should be able to ping all the Drones from your computer 
+Do this to all your Drones. When you finish, You should be able to ping all the Drones from your computer. 
   
   
   
